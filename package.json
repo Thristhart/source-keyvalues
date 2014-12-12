@@ -1,0 +1,19 @@
+{
+  "name": "source-keyvalues",
+  "version": "0.0.1",
+  "description": "A javascript parser/encoder for Valve's KeyValues format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thristhart/source-keyvalues.git"
+  },
+  "author": "thristhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thristhart/source-keyvalues/issues"
+  },
+  "homepage": "https://github.com/Thristhart/source-keyvalues"
+}
